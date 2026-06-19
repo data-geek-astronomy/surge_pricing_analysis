@@ -1,0 +1,84 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+.env.prod
+secrets/
+credentials/
+keys/
+*.key
+*.pem
+
+# n8n Files
+.n8n/
+workflows/node_modules/
+node_modules/
+package-lock.json
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Test Files
+test-results/
+coverage/
+.nyc_output/
+
+# Build
+dist/
+build/
+*.tgz
+
+# Backups
+*.backup
+*.bak
+*.tmp
+*_old
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Config
+config.local.json
+settings.local.json
+
+# Sensitive Data (Medical Records)
+**/test-data/real-*
+patient-data/
+actual-reports/
+
+# Temp Files
+temp/
+tmp/
+*.tmp
+
+# Credentials (double check)
+# Do NOT commit API keys, tokens, passwords
+google-credentials.json
+gmail-token.json
+auth-token.txt

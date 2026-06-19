@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2026 Aravind Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER FOR MEDICAL/HEALTHCARE USE:
+
+This software is provided for EDUCATIONAL AND DEMONSTRATION purposes only.
+
+⚠️  IMPORTANT NOTICE:
+- This tool is NOT a substitute for professional medical judgment
+- Always review AI-generated medical analyses with qualified healthcare professionals
+- Do NOT use this tool for actual patient care without proper validation
+- Ensure compliance with HIPAA, GDPR, and local healthcare regulations
+- This tool should only be used by authorized healthcare professionals
+- Always maintain human oversight in medical decision-making
+
+For production use in healthcare settings:
+1. Conduct thorough validation and testing with medical experts
+2. Implement proper security and compliance measures
+3. Maintain detailed audit logs and documentation
+4. Obtain appropriate legal and regulatory approvals
+5. Ensure patient consent and privacy protection
+6. Establish clear liability and responsibility frameworks
+
+Use of this software in production healthcare environments without proper
+validation and governance is at your own risk.
+
+---
+
+THIRD-PARTY COMPONENTS:
+
+This project uses the following open-source components:
+- n8n (Apache License 2.0)
+- Google Generative AI SDK (Apache License 2.0)
+- Gmail API (Google APIs, Apache License 2.0)
+
+These components are governed by their respective licenses.
